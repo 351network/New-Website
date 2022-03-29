@@ -78,7 +78,8 @@ a:hover {
     transition: 0.3s;
 }
 
-#navigation {
+/* signup button isn't really navigation, i'm cheating */
+#navigation, #signup {
     padding: 0;
     margin-top: 30px;
     list-style-type: none;
