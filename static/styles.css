@@ -54,6 +54,9 @@ a:hover {
     border-radius: 60px;
     text-decoration: none;
 }
+#signup li a {
+    width:100%;
+}
 
 .container {
     max-width: 720px;
