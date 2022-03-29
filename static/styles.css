@@ -41,7 +41,7 @@ a:hover {
 #navigation li a, #signup li a {
     color: var(--title-color);
     font-size: 15px;
-    padding: 10px 15px 10px 5px;
+    padding: 10px 15px 10px 0px;
     text-decoration: none;
 }
 
@@ -55,7 +55,7 @@ a:hover {
     text-decoration: none;
 }
 #signup li a {
-    width:100%;
+        padding: 10px 25px 10px 25px;
 }
 
 .container {
