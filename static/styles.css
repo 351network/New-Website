@@ -38,7 +38,7 @@ a:hover {
     text-decoration: none;
 }
 
-#navigation li a {
+#navigation li a, #signup li a {
     color: var(--title-color);
     font-size: 15px;
     padding: 10px 15px 10px 15px;
@@ -49,7 +49,7 @@ a:hover {
     background-color: var(--highlight);
 }
 
-.active, #navigation li a {
+.active, #navigation li a, #signup li a {
     transition: 0.3s;
     border-radius: 60px;
     text-decoration: none;
