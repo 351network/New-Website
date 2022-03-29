@@ -56,8 +56,9 @@ a:hover {
     text-decoration: none;
 }
 
+/* something is dropping an invisible 50px anchor block here and buggering layout, a bug? javascript? */
 #signup li {
-    margin-left:-50px;
+    margin-left:-50px;  /* counteract the weird inserted block */
 }
 
 #signup li {
