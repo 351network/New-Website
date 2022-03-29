@@ -56,13 +56,13 @@ a:hover {
     text-decoration: none;
 }
 
-#signup, #signup li {
+#signup li {
     margin-left:0;
-    
+    float:left;
 }
 
 #signup li {
-text-align:right;
+text-align:left;
 }
 
 #signup li a {
