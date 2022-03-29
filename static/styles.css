@@ -45,6 +45,7 @@ a:hover {
     text-decoration: none;
 }
 
+
 .active {
     background-color: var(--highlight);
 }
@@ -53,6 +54,11 @@ a:hover {
     transition: 0.3s;
     border-radius: 60px;
     text-decoration: none;
+}
+
+#signup, #signup li {
+    margin-left:0;
+    
 }
 
 #signup li {
