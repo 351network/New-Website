@@ -57,8 +57,7 @@ a:hover {
 }
 
 #signup li {
-    margin-left:0;
-    float:left;
+    margin-left:-50px;
 }
 
 #signup li {
