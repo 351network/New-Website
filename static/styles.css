@@ -194,11 +194,14 @@ footer {
 
 
 
-
+/* Override the Mautic form button */
 .mauticform-button.btn.btn-default {
 
 background-color:#D34035 !important;
-    color:#fff;
+    color:#fff !important;
+    text-transform: none !important;
+    border-radius:16px !important;
+    font-size:20px !important;
 }
 
 
