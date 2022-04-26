@@ -191,6 +191,20 @@ footer {
     border-radius: 3px;
 }
 
+
+
+
+
+.mauticform-button .btn .btn-default {
+
+color:red;
+}
+
+
+
+
+
+
 /* Media queries for responsiveness
 -------------------------------------------------------------- */
 @media (max-width: 767px) {
