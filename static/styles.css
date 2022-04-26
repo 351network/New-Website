@@ -197,7 +197,8 @@ footer {
 
 .mauticform-button.btn.btn-default {
 
-color:red !important;
+background-color:#D34035 !important;
+    color:#fff;
 }
 
 
