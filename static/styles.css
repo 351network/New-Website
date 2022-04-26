@@ -53,7 +53,7 @@ a:hover {
 .active, #navigation li a, #signup li a {
     transition: 0.3s;
     border-radius: 60px;
-    /*text-decoration: none;*/
+    text-decoration: none;
 }
 
 /* something is dropping an invisible 50px anchor block here and buggering layout, a bug? javascript? */
@@ -196,6 +196,12 @@ footer {
     letter-spacing: 0.1px;
     line-height: 1.4;
     font-size: 0.9rem;
+}
+.small-print a {
+    text-decoration: underline;
+}
+.small-print a:hover {
+    text-decoration: none;
 }
 
 /* Override the Mautic form button */
