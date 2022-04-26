@@ -192,7 +192,11 @@ footer {
 }
 
 
-
+.small-print {
+    letter-spacing: 0.1px;
+    line-height: 1.4;
+    font-size: 0.8rem;
+}
 
 /* Override the Mautic form button */
 .mauticform-button.btn.btn-default {
